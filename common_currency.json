@@ -1,0 +1,100 @@
+[
+  {
+    "currency_id": "156",
+    "currency_name": "CNY",
+    "currency_iso": "CNY",
+    "currency_symbol": "¥"
+  },
+  {
+    "currency_id": "344",
+    "currency_name": "HKD",
+    "currency_iso": "HKD",
+    "currency_symbol": ""
+  },
+  {
+    "currency_id": "356",
+    "currency_name": "INR",
+    "currency_iso": "INR",
+    "currency_symbol": "₹"
+  },
+  {
+    "currency_id": "392",
+    "currency_name": "JPY",
+    "currency_iso": "JPY",
+    "currency_symbol": "¥"
+  },
+  {
+    "currency_id": "410",
+    "currency_name": "KRW",
+    "currency_iso": "KRW",
+    "currency_symbol": "₩"
+  },
+  {
+    "currency_id": "446",
+    "currency_name": "MOP",
+    "currency_iso": "MOP",
+    "currency_symbol": ""
+  },
+  {
+    "currency_id": "566",
+    "currency_name": "NGN",
+    "currency_iso": "NGN",
+    "currency_symbol": "₦"
+  },
+  {
+    "currency_id": "586",
+    "currency_name": "PKR",
+    "currency_iso": "PKR",
+    "currency_symbol": "Rs"
+  },
+  {
+    "currency_id": "608",
+    "currency_name": "PHP",
+    "currency_iso": "PHP",
+    "currency_symbol": "₱"
+  },
+  {
+    "currency_id": "702",
+    "currency_name": "SGD",
+    "currency_iso": "SGD",
+    "currency_symbol": ""
+  },
+  {
+    "currency_id": "818",
+    "currency_name": "EGP",
+    "currency_iso": "EGP",
+    "currency_symbol": "£"
+  },
+  {
+    "currency_id": "826",
+    "currency_name": "GBP",
+    "currency_iso": "GBP",
+    "currency_symbol": "£"
+  },
+  {
+    "currency_id": "840",
+    "currency_name": "USD",
+    "currency_iso": "USD",
+    "currency_symbol": "$"
+  },
+  {
+    "currency_id": "901",
+    "currency_name": "TWD",
+    "currency_iso": "TWD",
+    "currency_symbol": "$"
+  },
+  {
+    "currency_id": "949",
+    "currency_name": "TRY",
+    "currency_iso": "TRY",
+    "currency_symbol": "₺"
+  },
+  {
+    "currency_id": "978",
+    "currency_name": "EUR",
+    "currency_iso": "EUR",
+    "currency_symbol": "€"
+  }
+]
+
+
