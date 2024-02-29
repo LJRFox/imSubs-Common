@@ -1,0 +1,25 @@
+{
+	"run_environment": "PRODUCTION",
+	"theme_color": 4292101188,
+	"theme_color_customize_user_all": true,
+	"theme_color_customize_user_only": "",
+	"grey_theme_is_sunset_show": true,
+	"grey_theme_is_sunset_show_start_date": "2024-02-29 12:00:00",
+	"grey_theme_is_sunset_show_end_date": "2024-03-01 23:59:59",
+	"emoji_default": "",
+	"emoji_show_user_all": true,
+	"emoji_show_user_only": "",
+	"emoji_customize_user_all": true,
+	"emoji_customize_user_only": "",
+	"festival_eggs": [{
+			"festival_date": "12021-07-09",
+			"festival_description": "festival-default",
+			"festival_url": "https://assets1.lottiefiles.com/packages/lf20_oyx2dfep.json"
+		},
+		{
+			"festival_date": "2024-02-29",
+			"festival_description": "festival-1",
+			"festival_url": "https://assets6.lottiefiles.com/packages/lf20_bcaLd1.json"
+		}
+	]
+}

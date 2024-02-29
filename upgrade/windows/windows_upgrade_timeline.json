@@ -1,0 +1,22 @@
+[
+	{
+		"version_name":"v0.1.33",
+		"version_code": "00010033",
+		"upgrade_min_version_name":"v0.0.1",
+		"upgrade_min_version_code": "0000001",
+		"upgrade_max_version_name":"v1.0.0",
+		"upgrade_max_version_code": "01000000",
+		"version_title": "New Version",
+		"version_description":"1. [color=green]🚀Bug fixes and performance improvements.[/color]\n",
+		"force_upgrade": false,
+		"distribution_user_all": true,
+		"distribution_user_only": "",
+		"download_url": "https://github.com/LJRFox/imSubs-Common/blob/main/release/windows/imSubs_00010033_dAQDDoqYDfIX.exe",
+		"full_download_url": "https://github.com/LJRFox/imSubs-Common/blob/main/release/windows/imSubs_00010033_dAQDDoqYDfIX.exe",
+		"upgrade_times": 1,
+		"is_show": true,
+		"is_enable": true,
+		"create_date":"2024-02-29 12:00:00",
+		"update_date":"2024-02-29 12:00:00"
+	}
+]
