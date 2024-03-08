@@ -28,7 +28,7 @@
     "is_delete": false
   },
   {
-    "apple_service_id": "AAPL_ID_100006",
+    "apple_service_id": "AAPL_ID_100005",
     "apple_service_name": "AppleID 应用与游戏获取",
     "apple_service_remark": "Apple Get Apps & Games",
     "is_show": true,
