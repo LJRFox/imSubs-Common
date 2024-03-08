@@ -1,36 +1,43 @@
 [
   {
     "apple_service_id": "AAPL_ID_100001",
-    "apple_service_name": "Apple 资料查询",
+    "apple_service_name": "AppleID 资料查询",
     "apple_service_remark": "Apple Profile Search",
     "is_show": true,
     "is_delete": false
   },
   {
     "apple_service_id": "AAPL_ID_100002",
-    "apple_service_name": "Apple 资料修改",
+    "apple_service_name": "AppleID 资料修改",
     "apple_service_remark": "Apple Profile Edit",
     "is_show": true,
     "is_delete": false
   },
   {
     "apple_service_id": "AAPL_ID_100003",
-    "apple_service_name": "Apple 余额查询",
+    "apple_service_name": "AppleID 余额查询",
     "apple_service_remark": "Apple Balances",
     "is_show": true,
     "is_delete": false
   },
   {
     "apple_service_id": "AAPL_ID_100004",
-    "apple_service_name": "Apple 余额兑换",
+    "apple_service_name": "AppleID 余额兑换",
     "apple_service_remark": "Apple Redeem",
     "is_show": true,
     "is_delete": false
   },
   {
-    "apple_service_id": "AAPL_ID_100005",
-    "apple_service_name": "Apple 应用与游戏查询",
-    "apple_service_remark": "Apple Apps & Games Search",
+    "apple_service_id": "AAPL_ID_100006",
+    "apple_service_name": "AppleID 应用与游戏获取",
+    "apple_service_remark": "Apple Get Apps & Games",
+    "is_show": true,
+    "is_delete": false
+  },
+  {
+    "apple_service_id": "AAPL_ID_100006",
+    "apple_service_name": "AppleID 应用与游戏查询",
+    "apple_service_remark": "Apple Search Apps & Games",
     "is_show": true,
     "is_delete": false
   }
