@@ -19,11 +19,11 @@ imSubs is a subscription management application that helps you keep track of you
 
 **Installation**
 
-imSubs is available for download on the [imSubs website](https://ljrfoz.canny.io/).
+imSubs is available for download on the [imSubs](https://ozstudio.canny.io/).
 
 **Getting started**
 
-To get started with imSubs, simply add your subscriptions and accounts. You can find a guide on how to do this in the [imSubs documentation](https://ozstudio.canny.io/).
+To get started with imSubs, simply add your subscriptions and accounts. You can find a guide on how to do this in the [imSubs](https://ozstudio.canny.io/).
 
 **Screenshots**
 
@@ -47,4 +47,4 @@ We welcome contributions from users. If you'd like to contribute to imSubs, plea
 
 **Support**
 
-If you have any questions or feedback, please contact us at [LJRF.oz Studio](https://ljrfoz.canny.io/)
+If you have any questions or feedback, please contact us at [oz Studio](https://ozstudio.canny.io/)
