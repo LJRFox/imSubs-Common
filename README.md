@@ -2,13 +2,14 @@
 
 imSubs is a subscription management application that helps you keep track of your subscriptions and expenses. With imSubs, you can:
 
-* **See all of your subscriptions in one place**
-* **Track your subscription costs**
-* **Generate automatic invoices**
-* **Manage your accounts**
-* **Daily Currency Exchange Rate**
-* **Search Apps on the App Store and in-app-price**
-* **Search Apps on the Google Play**
+* **1. See all of your subscriptions in one place**
+* **2. Track your subscription costs**
+* **3. Generate automatic invoices**
+* **4. Manage your accounts**
+* **5. Daily Currency Exchange Rate**
+* **6. Search Apps on the App Store and in-app-price**
+* **7. Search Apps on the Google Play**
+* **8. More...**
 
 **Features**
 
