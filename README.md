@@ -6,6 +6,9 @@ imSubs is a subscription management application that helps you keep track of you
 * **Track your subscription costs**
 * **Generate automatic invoices**
 * **Manage your accounts**
+* **Daily Currency Exchange Rate**
+* **Search Apps on the App Store and in-app-price**
+* **Search Apps on the Google Play**
 
 **Features**
 
@@ -20,7 +23,7 @@ imSubs is available for download on the [imSubs website](https://ljrfoz.canny.io
 
 **Getting started**
 
-To get started with imSubs, simply add your subscriptions and accounts. You can find a guide on how to do this in the [imSubs documentation](https://ljrfoz.canny.io/).
+To get started with imSubs, simply add your subscriptions and accounts. You can find a guide on how to do this in the [imSubs documentation](https://ozstudio.canny.io/).
 
 **Screenshots**
 
