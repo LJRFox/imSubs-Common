@@ -7,4 +7,4 @@ How to download and install imSubs on all platform, just like Windows, macOS, Li
 
 **Statement**
 
-Currently only available on Windows and Android (build environment limited)
+Currently only available on Windows and Android
