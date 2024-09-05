@@ -452,6 +452,61 @@
       "link": "",
       "remark": "",
       "is_show": true
+    },
+    {
+      "subscription_code": "imSubs_Code_Discord",
+      "title": "Discord",
+      "remote_image": "",
+      "background_color": 4294967295,
+      "border_color": 4289638062,
+      "order": 16,
+      "link": "",
+      "remark": "",
+      "is_show": true
+    },
+    {
+      "subscription_code": "imSubs_Code_Fastmail",
+      "title": "Fastmail",
+      "remote_image": "",
+      "background_color": 4294967295,
+      "border_color": 4289638062,
+      "order": 16,
+      "link": "",
+      "remark": "",
+      "is_show": true
+    },
+    {
+      "subscription_code": "imSubs_Code_Figma",
+      "title": "Figma",
+      "remote_image": "",
+      "background_color": 4294967295,
+      "border_color": 4289638062,
+      "order": 16,
+      "link": "",
+      "remark": "",
+      "is_show": true
+    },
+    {
+      "subscription_code": "imSubs_Code_Joplin",
+      "title": "Joplin",
+      "remote_image": "",
+      "background_color": 4294967295,
+      "border_color": 4289638062,
+      "order": 16,
+      "link": "",
+      "remark": "",
+      "is_show": true
+    },
+    {
+      "subscription_code": "imSubs_Code_PlayStation_Plus",
+      "title": "PlayStation Plus",
+      "remote_image": "",
+      "background_color": 4294967295,
+      "border_color": 4289638062,
+      "order": 16,
+      "link": "",
+      "remark": "",
+      "is_show": true
     }
   ],
   "japan": [],
