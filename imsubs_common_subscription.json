@@ -419,6 +419,39 @@
       "link": "",
       "remark": "",
       "is_show": true
+    },
+    {
+      "subscription_code": "imSubs_Code_BT",
+      "title": "BT",
+      "remote_image": "",
+      "background_color": 4294967295,
+      "border_color": 4289638062,
+      "order": 16,
+      "link": "",
+      "remark": "",
+      "is_show": true
+    },
+    {
+      "subscription_code": "imSubs_Code_O2",
+      "title": "O2",
+      "remote_image": "",
+      "background_color": 4294967295,
+      "border_color": 4289638062,
+      "order": 16,
+      "link": "",
+      "remark": "",
+      "is_show": true
+    },
+    {
+      "subscription_code": "imSubs_Code_Vodafone",
+      "title": "Vodafone",
+      "remote_image": "",
+      "background_color": 4294967295,
+      "border_color": 4289638062,
+      "order": 16,
+      "link": "",
+      "remark": "",
+      "is_show": true
     }
   ],
   "japan": [],
