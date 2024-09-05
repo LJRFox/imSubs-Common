@@ -188,6 +188,72 @@
       "link": "",
       "remark": "",
       "is_show": true
+    },
+    {
+      "subscription_code": "imSubs_Code_X_Twitter",
+      "title": "X (Twitter)",
+      "remote_image": "",
+      "background_color": 4294967295,
+      "border_color": 4289638062,
+      "order": 16,
+      "link": "",
+      "remark": "",
+      "is_show": true
+    },
+    {
+      "subscription_code": "imSubs_Code_HBO_MAX",
+      "title": "HBO MAX",
+      "remote_image": "",
+      "background_color": 4294967295,
+      "border_color": 4289638062,
+      "order": 16,
+      "link": "",
+      "remark": "",
+      "is_show": true
+    },
+    {
+      "subscription_code": "imSubs_Code_HBO_GO",
+      "title": "HBO GO",
+      "remote_image": "",
+      "background_color": 4294967295,
+      "border_color": 4289638062,
+      "order": 16,
+      "link": "",
+      "remark": "",
+      "is_show": true
+    },
+    {
+      "subscription_code": "imSubs_Code_Paramount_Plus",
+      "title": "Paramount+",
+      "remote_image": "",
+      "background_color": 4294967295,
+      "border_color": 4289638062,
+      "order": 16,
+      "link": "",
+      "remark": "",
+      "is_show": true
+    },
+    {
+      "subscription_code": "imSubs_Code_Adobe",
+      "title": "Adobe",
+      "remote_image": "",
+      "background_color": 4294967295,
+      "border_color": 4289638062,
+      "order": 16,
+      "link": "",
+      "remark": "",
+      "is_show": true
+    },
+    {
+      "subscription_code": "imSubs_Code_Telegram_Premium",
+      "title": "Telegram Premium",
+      "remote_image": "",
+      "background_color": 4294967295,
+      "border_color": 4289638062,
+      "order": 16,
+      "link": "",
+      "remark": "",
+      "is_show": true
     }
   ],
   "japan": [],
@@ -221,7 +287,7 @@
       "remote_image": "https://1000logos.net/wp-content/uploads/2021/09/Sams-Club-Logo-2006.png",
       "background_color": 4278209421,
       "border_color": 4278009421,
-      "order": 18,
+      "order": 19,
       "link": "",
       "remark": "",
       "is_show": true
