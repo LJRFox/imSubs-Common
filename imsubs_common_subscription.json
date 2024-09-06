@@ -377,6 +377,94 @@
       "is_show": true
     },
     {
+      "subscription_code": "imSubs_Code_Evernote",
+      "title": "Evernote",
+      "remote_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq86rwBFHelCnedKHpe7aUqDfc9IFI6HjzeA&s",
+      "background_color": 4294967295,
+      "border_color": 4289638062,
+      "order": 16,
+      "link": "",
+      "remark": "",
+      "is_show": true
+    },
+    {
+      "subscription_code": "imSubs_Code_Obsidian",
+      "title": "Obsidian",
+      "remote_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxwWmUIwU2o3TTOr-jtZCeipmuzGHkIoZZcQ&s",
+      "background_color": 4294967295,
+      "border_color": 4289638062,
+      "order": 16,
+      "link": "",
+      "remark": "",
+      "is_show": true
+    },
+    {
+      "subscription_code": "imSubs_Code_Workflowy",
+      "title": "Workflowy",
+      "remote_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4msCnV5F-2oGRs5g8V0Kp7fuOKjIArEY_KA&s",
+      "background_color": 4294967295,
+      "border_color": 4289638062,
+      "order": 16,
+      "link": "",
+      "remark": "",
+      "is_show": true
+    },
+    {
+      "subscription_code": "imSubs_Code_Standard_Notes",
+      "title": "Standard Notes",
+      "remote_image": "https://play-lh.googleusercontent.com/yE8spVlVS8DxeK0eDkgoMw2TgTckRojptYQLW8UUuXrg1X4wpld_G0SmNgJSDzBdlxvv",
+      "background_color": 4294967295,
+      "border_color": 4289638062,
+      "order": 16,
+      "link": "",
+      "remark": "",
+      "is_show": true
+    },
+    {
+      "subscription_code": "imSubs_Code_Simplenote",
+      "title": "Simplenote",
+      "remote_image": "https://play-lh.googleusercontent.com/tt2b9Mt4M2clkweReVwD0ZRlDGQNRaheCpESIFynT61Cazgq4wx-0q4tWZK_yyWTa1Y",
+      "background_color": 4294967295,
+      "border_color": 4289638062,
+      "order": 16,
+      "link": "",
+      "remark": "",
+      "is_show": true
+    },
+    {
+      "subscription_code": "imSubs_Code_Feedly",
+      "title": "Feedly",
+      "remote_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT53-OsvxkQXj0O5jQcXxHHlQeXD_QipjzuJueqMwLEFQXBok5K_DYuiNaoGYknzCR3U_U&usqp=CAU",
+      "background_color": 4294967295,
+      "border_color": 4289638062,
+      "order": 16,
+      "link": "",
+      "remark": "",
+      "is_show": true
+    },
+    {
+      "subscription_code": "imSubs_Code_Inoreader",
+      "title": "Inoreader",
+      "remote_image": "https://play-lh.googleusercontent.com/bAR-n9nd5KJ9qniTr_sXlAVi9lQZc46qb5wfFv8Cct-aWcaOptFYUjz6YmGJjWpH2g=w600-h300-pc0xffffff-pd",
+      "background_color": 4294967295,
+      "border_color": 4289638062,
+      "order": 16,
+      "link": "",
+      "remark": "",
+      "is_show": true
+    },
+    {
+      "subscription_code": "imSubs_Code_News_Blur",
+      "title": "NewsBlur",
+      "remote_image": "https://play-lh.googleusercontent.com/S0AYLN1BNNpXjlN5MeYtK-73d4hPkkM5N6EuhWaIGAcVhC41JXyF9N8Lh0F4rT7A_ts1",
+      "background_color": 4294967295,
+      "border_color": 4289638062,
+      "order": 16,
+      "link": "",
+      "remark": "",
+      "is_show": true
+    },
+    {
       "subscription_code": "imSubs_Code_Chat_GPT",
       "title": "ChatGPT",
       "remote_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt_I0AqTbvaxxFCoEWH_SZP49jpBiTMiCkCA&s",
