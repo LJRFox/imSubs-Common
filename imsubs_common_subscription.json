@@ -355,6 +355,17 @@
       "is_show": true
     },
     {
+      "subscription_code": "imSubs_Code_Medium",
+      "title": "Medium",
+      "remote_image": "https://miro.medium.com/v2/resize:fit:1100/format:webp/1*-Uro0ONR8IXM0WEpUCzO-A.png",
+      "background_color": 4294967295,
+      "border_color": 4289638062,
+      "order": 16,
+      "link": "",
+      "remark": "",
+      "is_show": true
+    },
+    {
       "subscription_code": "imSubs_Code_Notion",
       "title": "Notion",
       "remote_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWjndQqBR1-JgfwoZDnMWAramovIinwm2ZPA&s",
