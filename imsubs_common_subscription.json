@@ -410,6 +410,17 @@
       "is_show": true
     },
     {
+      "subscription_code": "imSubs_Code_POE",
+      "title": "POE",
+      "remote_image": "https://play-lh.googleusercontent.com/A9D18P0Sm7s9T4LMjmuL8YWsYSGQrPABiLNh9LNvRrJlQ80HVI4hxe-GaCyi-180Cg=w240-h480-rw",
+      "background_color": 4294967295,
+      "border_color": 4289638062,
+      "order": 16,
+      "link": "",
+      "remark": "",
+      "is_show": true
+    },
+    {
       "subscription_code": "imSubs_Code_Github",
       "title": "Github",
       "remote_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmrGmeBv3SOLSKz6OlTVlVYkfH9_W3BBgdrA&s",
