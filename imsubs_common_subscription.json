@@ -256,31 +256,9 @@
       "is_show": true
     },
     {
-      "subscription_code": "imSubs_Code_X_Twitter",
-      "title": "X (Twitter)",
-      "remote_image": "",
-      "background_color": 4294967295,
-      "border_color": 4289638062,
-      "order": 16,
-      "link": "",
-      "remark": "",
-      "is_show": true
-    },
-    {
       "subscription_code": "imSubs_Code_Twitch",
       "title": "Twitch",
-      "remote_image": "",
-      "background_color": 4294967295,
-      "border_color": 4289638062,
-      "order": 16,
-      "link": "",
-      "remark": "",
-      "is_show": true
-    },
-    {
-      "subscription_code": "imSubs_Code_Tinder",
-      "title": "Tinder",
-      "remote_image": "",
+      "remote_image": "https://images.rawpixel.com/image_png_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdjk4Mi1kMy0xOC5wbmc.png",
       "background_color": 4294967295,
       "border_color": 4289638062,
       "order": 16,
@@ -291,7 +269,7 @@
     {
       "subscription_code": "imSubs_Code_HBO_MAX",
       "title": "HBO MAX",
-      "remote_image": "",
+      "remote_image": "https://variety.com/wp-content/uploads/2023/04/Max-Logo-Warner-Bros.-Discovery.png",
       "background_color": 4294967295,
       "border_color": 4289638062,
       "order": 16,
@@ -302,7 +280,7 @@
     {
       "subscription_code": "imSubs_Code_HBO_GO",
       "title": "HBO GO",
-      "remote_image": "",
+      "remote_image": "https://dj7fdt04hl8tv.cloudfront.net/acm/media/shop/hbo_go_v2.png",
       "background_color": 4294967295,
       "border_color": 4289638062,
       "order": 16,
@@ -313,7 +291,7 @@
     {
       "subscription_code": "imSubs_Code_Paramount_Plus",
       "title": "Paramount+",
-      "remote_image": "",
+      "remote_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgFKCnUF2RGDC3O3z43Xzf45oqK5Efc_hw9w&s",
       "background_color": 4294967295,
       "border_color": 4289638062,
       "order": 16,
@@ -324,7 +302,7 @@
     {
       "subscription_code": "imSubs_Code_Hulu",
       "title": "Hulu",
-      "remote_image": "",
+      "remote_image": "https://play-lh.googleusercontent.com/4whGAVjZGrrlNxzheKAfBXrxggtyAb4euWLeQI8fDfVfdnFEZjE0DZTJ8DKoh64pqcIa",
       "background_color": 4294967295,
       "border_color": 4289638062,
       "order": 16,
@@ -335,7 +313,7 @@
     {
       "subscription_code": "imSubs_Code_Adobe",
       "title": "Adobe",
-      "remote_image": "",
+      "remote_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJJM4msQEc6wBvIWEPqP1wuKEFX1G-Jzd3iw&s",
       "background_color": 4294967295,
       "border_color": 4289638062,
       "order": 16,
@@ -346,7 +324,7 @@
     {
       "subscription_code": "imSubs_Code_Telegram_Premium",
       "title": "Telegram Premium",
-      "remote_image": "",
+      "remote_image": "https://t4.ftcdn.net/jpg/05/33/75/35/360_F_533753588_1krxEE0SDZWl0ZKd9cUzCL6HaTRo9UxK.jpg",
       "background_color": 4294967295,
       "border_color": 4289638062,
       "order": 16,
@@ -357,7 +335,7 @@
     {
       "subscription_code": "imSubs_Code_The_Wall_Street_Journal",
       "title": "The Wall Street Journal",
-      "remote_image": "",
+      "remote_image": "https://play-lh.googleusercontent.com/eksxaPfxbTVb6VTl5aj1sXLpKc_N9Z6AZ3_5Oq6JhTXmgEQza-1v58a66p_ID0phE2Zv",
       "background_color": 4294967295,
       "border_color": 4289638062,
       "order": 16,
@@ -368,7 +346,7 @@
     {
       "subscription_code": "imSubs_Code_Tinder",
       "title": "Tinder",
-      "remote_image": "",
+      "remote_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmD_cG5OKL8EtCEjHPZnXYzCkr11NThi_ifA&s",
       "background_color": 4294967295,
       "border_color": 4289638062,
       "order": 16,
@@ -379,7 +357,7 @@
     {
       "subscription_code": "imSubs_Code_Notion",
       "title": "Notion",
-      "remote_image": "",
+      "remote_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWjndQqBR1-JgfwoZDnMWAramovIinwm2ZPA&s",
       "background_color": 4294967295,
       "border_color": 4289638062,
       "order": 16,
@@ -390,7 +368,7 @@
     {
       "subscription_code": "imSubs_Code_Chat_GPT",
       "title": "ChatGPT",
-      "remote_image": "",
+      "remote_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt_I0AqTbvaxxFCoEWH_SZP49jpBiTMiCkCA&s",
       "background_color": 4294967295,
       "border_color": 4289638062,
       "order": 16,
@@ -401,7 +379,7 @@
     {
       "subscription_code": "imSubs_Code_Claude",
       "title": "Claude",
-      "remote_image": "",
+      "remote_image": "https://avatars.slack-edge.com/2023-01-25/4682316783575_bbab0cdcdb3685eb5c87_512.png",
       "background_color": 4294967295,
       "border_color": 4289638062,
       "order": 16,
@@ -412,7 +390,7 @@
     {
       "subscription_code": "imSubs_Code_Gemini",
       "title": "Gemini",
-      "remote_image": "",
+      "remote_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThr7qrIazsvZwJuw-uZCtLzIjaAyVW_ZrlEQ&s",
       "background_color": 4294967295,
       "border_color": 4289638062,
       "order": 16,
@@ -423,7 +401,7 @@
     {
       "subscription_code": "imSubs_Code_Github",
       "title": "Github",
-      "remote_image": "",
+      "remote_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmrGmeBv3SOLSKz6OlTVlVYkfH9_W3BBgdrA&s",
       "background_color": 4294967295,
       "border_color": 4289638062,
       "order": 16,
@@ -434,7 +412,7 @@
     {
       "subscription_code": "imSubs_Code_Microsoft_Copilot",
       "title": "Microsoft Copilot",
-      "remote_image": "",
+      "remote_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Microsoft_365_Copilot_Icon.svg/640px-Microsoft_365_Copilot_Icon.svg.png",
       "background_color": 4294967295,
       "border_color": 4289638062,
       "order": 16,
@@ -445,7 +423,7 @@
     {
       "subscription_code": "imSubs_Code_Crunchyroll",
       "title": "Crunchyroll",
-      "remote_image": "",
+      "remote_image": "https://cdn.iconscout.com/icon/free/png-256/free-crunchyroll-logo-icon-download-in-svg-png-gif-file-formats--social-network-media-pack-logos-icons-3357695.png?f=webp",
       "background_color": 4294967295,
       "border_color": 4289638062,
       "order": 16,
@@ -456,7 +434,7 @@
     {
       "subscription_code": "imSubs_Code_Cursor",
       "title": "Cursor",
-      "remote_image": "",
+      "remote_image": "https://pbs.twimg.com/profile_images/1794806483219337216/9vW73mux_400x400.jpg",
       "background_color": 4294967295,
       "border_color": 4289638062,
       "order": 16,
@@ -467,7 +445,7 @@
     {
       "subscription_code": "imSubs_Code_Midjourney",
       "title": "Midjourney",
-      "remote_image": "",
+      "remote_image": "https://seeklogo.com/images/M/midjourney-logo-75A1FC1847-seeklogo.com.png",
       "background_color": 4294967295,
       "border_color": 4289638062,
       "order": 16,
@@ -478,7 +456,7 @@
     {
       "subscription_code": "imSubs_Code_Dashlane",
       "title": "Dashlane",
-      "remote_image": "",
+      "remote_image": "https://d38muu3h4xeqr1.cloudfront.net/website/static/DG-7961/images/icon_og_400x400.png",
       "background_color": 4294967295,
       "border_color": 4289638062,
       "order": 16,
@@ -489,7 +467,7 @@
     {
       "subscription_code": "imSubs_Code_LastPass",
       "title": "LastPass",
-      "remote_image": "",
+      "remote_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQV3v9JOeGmHg4w3AWp5cjxSBp432MMmSirKw&s",
       "background_color": 4294967295,
       "border_color": 4289638062,
       "order": 16,
