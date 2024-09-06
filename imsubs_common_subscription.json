@@ -665,7 +665,7 @@
     {
       "subscription_code": "imSubs_Code_Discord",
       "title": "Discord",
-      "remote_image": "",
+      "remote_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRccR1Pdukh57LlDUoTi0seUR5llO5Os7zMRQ&s",
       "background_color": 4294967295,
       "border_color": 4289638062,
       "order": 16,
@@ -676,7 +676,7 @@
     {
       "subscription_code": "imSubs_Code_Fastmail",
       "title": "Fastmail",
-      "remote_image": "",
+      "remote_image": "https://play-lh.googleusercontent.com/TOx7hB8MF3jb5JFu5_AciFuinzFFlmNI2tNe2MZLpmD52v0YrmYKmo0zthxKFDflxLk",
       "background_color": 4294967295,
       "border_color": 4289638062,
       "order": 16,
@@ -687,7 +687,7 @@
     {
       "subscription_code": "imSubs_Code_Figma",
       "title": "Figma",
-      "remote_image": "",
+      "remote_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4GxqFv_jgRLKeD8jFeAsjv-TNyaoUDwawLA&s",
       "background_color": 4294967295,
       "border_color": 4289638062,
       "order": 16,
@@ -698,7 +698,7 @@
     {
       "subscription_code": "imSubs_Code_Joplin",
       "title": "Joplin",
-      "remote_image": "",
+      "remote_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Joplin-icon.svg/1200px-Joplin-icon.svg.png",
       "background_color": 4294967295,
       "border_color": 4289638062,
       "order": 16,
@@ -709,7 +709,7 @@
     {
       "subscription_code": "imSubs_Code_PlayStation_Plus",
       "title": "PlayStation Plus",
-      "remote_image": "",
+      "remote_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeyRXxL0SZe8GKcoH28Et6tLQHW9zB1GDsOQ&s",
       "background_color": 4294967295,
       "border_color": 4289638062,
       "order": 16,
@@ -720,7 +720,7 @@
     {
       "subscription_code": "imSubs_Code_Xbox_Game_Pass",
       "title": "Xbox Game Pass",
-      "remote_image": "",
+      "remote_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNQGWVnuyvgwzZm4aFkNwvM0jQ6AGvLFKe2A&s",
       "background_color": 4294967295,
       "border_color": 4289638062,
       "order": 16,
@@ -731,7 +731,7 @@
     {
       "subscription_code": "imSubs_Code_Google_Play_Pass",
       "title": "Google Play Pass",
-      "remote_image": "",
+      "remote_image": "https://lh3.googleusercontent.com/xEnLHmhsSa93CWx4AJSPIrk9iyldJNUh7ORyiIXR1KuG8sQbTh7x15648WTP2Belf9vuQbgCEAGQzeNIKaVagn6QhZJSxVBl5z9qhw",
       "background_color": 4294967295,
       "border_color": 4289638062,
       "order": 16,
@@ -742,7 +742,7 @@
     {
       "subscription_code": "imSubs_Code_Google_Workspace",
       "title": "Google Workspace",
-      "remote_image": "",
+      "remote_image": "https://cdn1.iconfinder.com/data/icons/logos-brands-in-colors/3995/Google_Workspace_Logo-512.png",
       "background_color": 4294967295,
       "border_color": 4289638062,
       "order": 16,
@@ -786,7 +786,7 @@
     {
       "subscription_code": "imSubs_Code_Setapp",
       "title": "Setapp",
-      "remote_image": "https://cdn.setapp.com/master/175d0c0c822c96eeb67fbac1c65d3be14b106f86/static/main/images/components/logo/setapp-icon.svg",
+      "remote_image": "https://styles.redditmedia.com/t5_3iruj/styles/communityIcon_mqd4rsupq4081.jpg?format=pjpg&s=962fdec1a5fd9482c2677eaff1f22b610743251a",
       "background_color": 4294967295,
       "border_color": 4289638062,
       "order": 16,
