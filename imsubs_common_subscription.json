@@ -181,7 +181,7 @@
     {
       "subscription_code": "imSubs_Code_Amazon_Prime",
       "title": "Amazon Prime",
-      "remote_image": "",
+      "remote_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNfIHkvrxC5af_53PURzHcmFa5S2vmnX_h0Q&s",
       "background_color": 4294967295,
       "border_color": 4289638062,
       "order": 16,
@@ -192,7 +192,7 @@
     {
       "subscription_code": "imSubs_Code_Amazon_Music",
       "title": "Amazon Music",
-      "remote_image": "",
+      "remote_image": "https://play-lh.googleusercontent.com/NKNTBKRSFyWI25H50UEY_7w7NoBFvqcicq_bdPOWBvV-Kx1qtYB15d0kFhvMEEA4ZQ",
       "background_color": 4294967295,
       "border_color": 4289638062,
       "order": 16,
@@ -203,7 +203,7 @@
     {
       "subscription_code": "imSubs_Code_Discovery_Plus",
       "title": "Discovery+",
-      "remote_image": "",
+      "remote_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmnOw7IEIk9bQ3JZ-04i99bgucSwjEb6-W9A&s",
       "background_color": 4294967295,
       "border_color": 4289638062,
       "order": 16,
@@ -214,7 +214,7 @@
     {
       "subscription_code": "imSubs_Code_pCloud",
       "title": "pCloud",
-      "remote_image": "",
+      "remote_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKY7ljeuc_PkkT-eEwRGNK8xEyrVYLq_9uvw&s",
       "background_color": 4294967295,
       "border_color": 4289638062,
       "order": 16,
@@ -225,7 +225,7 @@
     {
       "subscription_code": "imSubs_Code_Cloudflare",
       "title": "Cloudflare",
-      "remote_image": "",
+      "remote_image": "https://static-00.iconduck.com/assets.00/cloudflare-icon-2048x2048-wks6nchu.png",
       "background_color": 4294967295,
       "border_color": 4289638062,
       "order": 16,
@@ -236,7 +236,7 @@
     {
       "subscription_code": "imSubs_Code_Tidal",
       "title": "Tidal",
-      "remote_image": "",
+      "remote_image": "https://play-lh.googleusercontent.com/XTAH_eKY6sDA0X2y5Z4WgfomKGei2lF0pNRnNC0j2t0im18NG3CHg3QkM0s-ADNC4w",
       "background_color": 4280641519,
       "border_color": 4280441519,
       "order": 16,
