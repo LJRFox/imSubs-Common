@@ -465,6 +465,50 @@
       "is_show": true
     },
     {
+      "subscription_code": "imSubs_Code_News_Substack",
+      "title": "Substack",
+      "remote_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReTkXyP7tjX-wOsXLOu_0oNJ0sBkW1i_vs4g&s",
+      "background_color": 4294967295,
+      "border_color": 4289638062,
+      "order": 16,
+      "link": "",
+      "remark": "",
+      "is_show": true
+    },
+    {
+      "subscription_code": "imSubs_Code_News_Readwise",
+      "title": "Readwise",
+      "remote_image": "https://play-lh.googleusercontent.com/iWVlhTceVZosZNyVRYRwJb4JKw7j_ifg3zJDLkhFoLt3yudFo1nwAFSUtKRvJDIu7w=w240-h480-rw",
+      "background_color": 4294967295,
+      "border_color": 4289638062,
+      "order": 16,
+      "link": "",
+      "remark": "",
+      "is_show": true
+    },
+    {
+      "subscription_code": "imSubs_Code_News_Readwise_Reader",
+      "title": "Readwise Reader",
+      "remote_image": "https://play-lh.googleusercontent.com/WnUbYMjxo8tncYynK6QmRN1z4iR6nwCFPkyhO6cD7cYsISczZnteNi4r8-YxOralWg",
+      "background_color": 4294967295,
+      "border_color": 4289638062,
+      "order": 16,
+      "link": "",
+      "remark": "",
+      "is_show": true
+    },
+    {
+      "subscription_code": "imSubs_Code_News_Super_Simple",
+      "title": "Super Simple",
+      "remote_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrWFNRQp73pZBHUDzGWs1kSwnADmhcwkVumA&s",
+      "background_color": 4294967295,
+      "border_color": 4289638062,
+      "order": 16,
+      "link": "",
+      "remark": "",
+      "is_show": true
+    },
+    {
       "subscription_code": "imSubs_Code_Chat_GPT",
       "title": "ChatGPT",
       "remote_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt_I0AqTbvaxxFCoEWH_SZP49jpBiTMiCkCA&s",
@@ -501,6 +545,17 @@
       "subscription_code": "imSubs_Code_POE",
       "title": "POE",
       "remote_image": "https://play-lh.googleusercontent.com/A9D18P0Sm7s9T4LMjmuL8YWsYSGQrPABiLNh9LNvRrJlQ80HVI4hxe-GaCyi-180Cg=w240-h480-rw",
+      "background_color": 4294967295,
+      "border_color": 4289638062,
+      "order": 16,
+      "link": "",
+      "remark": "",
+      "is_show": true
+    },
+    {
+      "subscription_code": "imSubs_Code_Perplexity",
+      "title": "Perplexity",
+      "remote_image": "https://play-lh.googleusercontent.com/6STp0lYx2ctvQ-JZpXA1LeAAZIlq6qN9gpy7swLPlRhmp-hfvZePcBxqwVkqN2BH1g",
       "background_color": 4294967295,
       "border_color": 4289638062,
       "order": 16,
@@ -967,6 +1022,28 @@
       "subscription_code": "imSubs_Code_China_Unicom",
       "title": "China Unicom",
       "remote_image": "https://icons.veryicon.com/png/o/business/well-known-enterprise-logo/china-unicom-01.png",
+      "background_color": 4278222796,
+      "border_color": 4278022796,
+      "order": 19,
+      "link": "",
+      "remark": "",
+      "is_show": true
+    },
+    {
+      "subscription_code": "imSubs_Code_Taobao_Tmall_88_VIP",
+      "title": "88VIP",
+      "remote_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwE0y107q0xe0MbndN14PUdoF8tCqIAEd5qKHZ5K3QHW6Tx4KVS5PovP0DOd0g_P8N0P0&usqp=CAU",
+      "background_color": 4278222796,
+      "border_color": 4278022796,
+      "order": 19,
+      "link": "",
+      "remark": "",
+      "is_show": true
+    },
+    {
+      "subscription_code": "imSubs_Code_JD_Plus",
+      "title": "JD PLUS",
+      "remote_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYJJE94RYykk5riBkTeEhpZHSMInZl8NH8-Q&s",
       "background_color": 4278222796,
       "border_color": 4278022796,
       "order": 19,
