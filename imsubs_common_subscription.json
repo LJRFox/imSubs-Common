@@ -333,6 +333,17 @@
       "is_show": true
     },
     {
+      "subscription_code": "imSubs_Code_Zoom",
+      "title": "Zoom",
+      "remote_image": "https://img.freepik.com/premium-vector/zoom-icon-popular-messenger-app-communications-platform_277909-457.jpg",
+      "background_color": 4294967295,
+      "border_color": 4289638062,
+      "order": 16,
+      "link": "",
+      "remark": "",
+      "is_show": true
+    },
+    {
       "subscription_code": "imSubs_Code_Telegram_Premium",
       "title": "Telegram Premium",
       "remote_image": "https://t4.ftcdn.net/jpg/05/33/75/35/360_F_533753588_1krxEE0SDZWl0ZKd9cUzCL6HaTRo9UxK.jpg",
@@ -1114,6 +1125,28 @@
       "is_show": true
     },
     {
+      "subscription_code": "imSubs_Code_Hello_Fresh",
+      "title": "HelloFresh",
+      "remote_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWnkIgSBJ-0nCOuwiptMDXOartEI6LQxNEHw&s",
+      "background_color": 4294967295,
+      "border_color": 4289638062,
+      "order": 16,
+      "link": "",
+      "remark": "",
+      "is_show": true
+    },
+    {
+      "subscription_code": "imSubs_Code_Master_Class",
+      "title": "MasterClass",
+      "remote_image": "https://play-lh.googleusercontent.com/yWbzX1AlUxEqsiuUf4zh8Azyp3OYIckMnrLmb8502bSdnCaMfoZuwSQdAH1ku3v0AJA=s256-rw",
+      "background_color": 4294967295,
+      "border_color": 4289638062,
+      "order": 16,
+      "link": "",
+      "remark": "",
+      "is_show": true
+    },
+    {
       "subscription_code": "imSubs_Code_Link_Tree",
       "title": "Linktree",
       "remote_image": "https://play-lh.googleusercontent.com/x3Kpw4L_-miSO6eumND8Az4ltZ2Ype6vSrJeJJW44Jugzn8KuKXaqsu_E_Zjx0Db5Hw",
@@ -1128,6 +1161,17 @@
       "subscription_code": "imSubs_Code_Sam_s_Club",
       "title": "Sam's Club",
       "remote_image": "https://1000logos.net/wp-content/uploads/2021/09/Sams-Club-Logo-2006.png",
+      "background_color": 4278209421,
+      "border_color": 4278009421,
+      "order": 16,
+      "link": "",
+      "remark": "",
+      "is_show": true
+    },
+    {
+      "subscription_code": "imSubs_Code_Costco",
+      "title": "Costco",
+      "remote_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQs0MiyOx0tdFe7GRtOjDnUU_lAdiWT6CdKsw&s",
       "background_color": 4278209421,
       "border_color": 4278009421,
       "order": 16,
