@@ -5,10 +5,10 @@ imSubs is a subscription management application that helps you keep track of you
 
 ## Work on Android, iOS/iPadOS, Windows, macOS, Linux.
 Progress: (update on: 28-05-2024)
-1. Android: 📱[Done, almost release]
+1. Android: 📱[Done, [Google Play](https://play.google.com/store/apps/details?id=com.alphabet.oxstudio.imsubs)]
 2. iOS/iPadOS: 📱[Working, fighting]
-3. macOS(Mac devices): 💻[Working, fighting]
-4. Windows(PC devices): 💻[Done, release soon]
+3. Windows(PC devices): 💻[Done, [Github](https://github.com/LJRFox/imSubs-Common/releases)]
+4. macOS(Mac devices): 💻[Working, fighting]
 5. Linux: 🐧[Testing, waiting]
 
 
